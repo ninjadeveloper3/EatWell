@@ -1,0 +1,217 @@
+{
+    
+"Logout"
+:"Logout",
+"English":"English",
+"Arabic":"Arabic",
+"Change Language":"Change Language",
+
+
+
+
+
+"Home":"Home",
+"Order History":"Order History",
+"Notifications":"Notifications",
+"Settings":"Settings",
+
+"Healthy Diet Plans for You!":"Healthy Diet Plans for You!",
+"Select your Personalized Plan":"Select your Personalized Plan",
+"Need Support?":"Need Support?",
+"Dietician Assessment":"Dietician Assessment",
+"You can select your meal as per nutritionist recommendations":"You can select your meal as per nutritionist recommendations",
+"How would you like to Proceed?":"How would you like to Proceed?",
+"Book Through Call Center":"Book Through Call Center",
+"Book Through IMC App":"Book Through IMC App",
+"Meal Plans":"Meal Plans",
+"You can select your meal as per \n nutritionist recommendations":"You can select your meal as per \n nutritionist recommendations",
+"Alert Message!":"Alert Message!",
+"Your Consultation Fees will be deducted from the Final Order.":"Your Consultation Fees will be deducted from the Final Order.",
+"Proceed":"Proceed",
+"DASHBOARD":"DASHBOARD",
+"GOAL":"GOAL",
+"SELECTION":"SELECTION",
+"Find Your Goal":"Find Your Goal",
+"We have healthy diet plans and much":"We have healthy diet plans and much",
+"more for you.":"more for you.",
+
+
+
+"Male":"Male",
+"Female":"Female",
+"Fill Form And Find Out Your\nCurrent Calories":"Fill Form And Find Out Your\nCurrent Calories",
+"Gender":"Gender",
+"Height":"Height",
+"Please enter height":"Please enter height",
+"Date of Birth":"Date of Birth",
+"Weight":"Weight",
+"Kg":"Kg",
+"Lbs":"Lbs",
+"Please select date of birth":"Please select date of birth",
+"Please select weight":"Please select weight",
+"Next":"Next",
+"Height (in cm)":"Height (in cm)",
+"Height (in ft)":"Height (in ft)",
+"Select":"Select",
+"Weight (in kg)":"Weight (in kg)",
+"Weight (in lbs)":"Weight (in lbs)",
+"Ft":"Ft",
+"Cm":"Cm",
+
+
+"CONTINUE":"CONTINUE",
+"Hi,":"Hi,",
+
+
+
+"DIET":"DIET",
+"CATEGORY":"CATEGORY",
+"No diet category found":"No diet category found",
+"There is already cart in progress do you want to discard it?":"There is already cart in progress do you want to discard it?",
+"Yes Discard it":"Yes Discard it",
+"Go to Cart":"Go to Cart",
+
+
+"Plans":"Plans",
+"PLANS":"PLANS",
+"Choose Plan":"Choose Plan",
+"Dietitian consultant is included in the overall price.Are you sure you don't want the dietitian assessment?":"Dietitian consultant is included in the overall price.Are you sure you don't want the dietitian assessment?",
+"Go to Assessment":"Go to Assessment",
+"I don't want":"I don't want",
+"Days":"Days",
+
+
+"Meal":"Meal",
+"MEAL":"MEAL",
+"Continue":"Continue",
+"Select Calories":"Select Calories",
+"Message":"Message",
+"Please Select 2 Meals":"Please Select 2 Meals",
+
+"Please Select any meal per day":"Please Select any meal per day",
+"Please complete per day meal selection":"Please complete per day meal selection",
+"Please Select per day meal calories":"Please Select per day meal calories",
+"Something went wrong":"Something went wrong",
+
+
+"DAYS":"DAYS",
+"PLAN":"PLAN",
+"How would you like to proceed with the plan ?":"How would you like to proceed with the plan ?",
+"Schedule Meal Plan":"Schedule Meal Plan",
+"You can schedule your plan for later":"You can schedule your plan for later",
+
+"SETTINGS":"SETTINGS",
+"Profile":"Profile",
+"Privacy Policy":"Privacy Policy",
+"Terms & Conditions":"Terms & Conditions",
+
+
+"ORDER HISTORY":"ORDER HISTORY",
+"Your Complete Order History":"Your Complete Order History",
+
+
+"DAILY":"DAILY",
+"Your Plan Contains":"Your Plan Contains",
+"Select your preferred":"Select your preferred",
+"Menu Items":"Menu Items",
+"Please select any date":"Please select any date",
+"Change Date":"Change Date",
+"No meal item found":"No meal item found",
+"Review Menu":"Review Menu",
+"Check out":"Check out",
+
+
+"Common Allergies":"Common Allergies",
+"This food contains":"This food contains",
+"Sizes":"Sizes",
+"Food Colorie":"Food Colorie",
+"Ingredients":"Ingredients",
+"ADD TO CART":"ADD TO CART",
+
+
+
+"CART":"CART",
+"DETAIL":"DETAIL",
+"DELIVERY DETAILS":"DELIVERY DETAILS",
+"Select Preferred":"Select Preferred",
+"Receiving Method":"Receiving Method",
+"Add Delivery Details":"Add Delivery Details",
+"Pickup":"Pickup",
+"Add Address":"Add Address",
+"Edit Address":"Edit Address",
+"Total Bill:":"Total Bill:",
+"Please selecte address to continue":"Please selecte address to continue",
+"Go To Payment":"Go To Payment",
+"Your Name":"Your Name",
+"Please enter name":"Please enter name",
+"Please enter full name":"Please enter full name",
+"Email Address":"Email Address",
+"Please enter email":"Please enter email",
+"Enter valid email":"Enter valid email",
+"Enter mob number":"Enter mob number",
+"Please enter mobile number":"Please enter mobile number",
+"Number must be more than 7 charater":"Number must be more than 7 charater",
+"Delivery":"Delivery",
+
+
+"ADD ADDRESS":"ADD ADDRESS",
+"Where to deliver?":"Where to deliver?",
+"Destination Address":"Destination Address",
+"Enter Lable":"Enter Lable",
+"Please enter lable":"Please enter lable",
+"i.e Work":"i.e Work",
+"Save Address":"Save Address",
+
+
+"We have heathy diet plans and much":"We have heathy diet plans and much",
+"SIGN IN":"SIGN IN",
+"SIGN UP":"SIGN UP",
+"There is already cart in progress do you want to discard it ?":"There is already cart in progress do you want to discard it ?",
+"No":"No",
+
+
+"Authorization":"Authorization",
+"Sign in":"Sign in",
+"Sign up":"Sign up",
+"Login":"Login",
+"Create Account":"Create Account",
+"Do not have account?":"Do not have account?",
+"Already have account?":"Already have account?",
+"Sign In Now":"Sign In Now",
+"Number must be more than 6 charaters":"Number must be more than 6 charaters",
+"Enter Password":"Enter Password",
+"Set Password":"Set Password",
+"Please enter password":"Please enter password",
+"Password must be more than 4 characters":"Password must be more than 4 characters",
+"Reset Password":"Reset Password",
+
+
+"Submit":"Submit",
+"Resend Code":"Resend Code",
+"Request Otp":"Request Otp",
+"expires in ":"expires in ",
+"Enter Otp":"Enter Otp",
+"Enter New Password":"Enter New Password",
+"Confirm Password":"Confirm Password",
+"please enter otp":"please enter otp",
+"please enter complete otp":"please enter complete otp",
+"please enter password":"please enter password",
+"password must be atleast 4 characters":"password must be atleast 4 characters",
+"confirm password must be same as new password":"confirm password must be same as new password",
+"password changed successfully":"password changed successfully",
+
+
+
+"No Order Found":"No Order Found",
+"Forgot Password":"Forgot Password",
+"with the plan ?":"with the plan ?",
+"How would you like to proceed":"How would you like to proceed",
+"":"",
+"":"",
+"":"",
+"":""
+
+
+    
+
+}
